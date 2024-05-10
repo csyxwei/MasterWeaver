@@ -2,7 +2,7 @@
 MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2405.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2404.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.05806-b31b1b.svg)](https://arxiv.org/abs/2405.05806)
 [![Project](https://img.shields.io/badge/Project-Website-orange)](https://masterweaver.github.io/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=csyxwei/MasterWeaver)
 
