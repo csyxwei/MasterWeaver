@@ -23,4 +23,4 @@ With one single reference image, our MasterWeaver can generate photo-realistic p
 By inputting paired text prompts that denote an editing operation, e.g., (a photo of a woman, a photo of a smiling woman), we identify the editing direction in the feature space of diffusion model. Then we align the editing direction of our MasterWeaver with that of original T2I model to improve the text controllability without affecting the identity.
 
 
-## The paper and code will be released soon.
+## The code will be released soon.
