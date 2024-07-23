@@ -4,6 +4,7 @@ __pycache__
 _sc.py
 *.ckpt
 *.bin
+*.sh
 
 checkpoints
 .idea
