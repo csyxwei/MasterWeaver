@@ -1,0 +1,43 @@
+{} with straight bangs
+{} with short bangs
+{} with long bangs
+{} with wavy hair
+{} with curly hair
+{} with straight hair
+{} with short hair
+{} with long hair
+{} with black hair
+{} with red hair
+{} with purple hair
+{} with yellow hair
+{} with grey hair
+{} with gray hair
+{} with blue hair
+{} with green hair
+{} with blond hair
+{} with rainbow hair
+{} with hi-top_fade hair
+{} with bob-cut hair
+{} with afro hair
+smiling {}
+{} smiling
+happy {}
+{} smiling
+smiling {}
+angry {}
+happy {}
+chubby {}
+sad {}
+cute {}
+bald {}
+crying {}
+surprised {}
+old {}
+young {}
+{} with eyeglasses
+{} with sunglasses
+{} wearing eyeglasses
+{} wearing sunglasses
+{} wearing red hat
+{} with mustache
+{} with goatee
